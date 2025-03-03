@@ -8,7 +8,7 @@
             "iconURL": "https://github.com/elvin-stonks/lernstube/blob/main/1024.png",
             "localizedDescription": "Hallo Noah",
             "name": "Bekis Lernstube",
-            "size": 14284,
+            "size": 720000,
             "tintColor": "000",
             "version": "0.6.9",
             "versions": [
@@ -18,7 +18,7 @@
                     "date": "2025-03-03",
                     "localizedDescription": "Hallo Noah",
                     "downloadURL": "https://github.com/elvin-stonks/lernstube/blob/main/releases/b46.ipa",
-                    "size": 14284,
+                    "size": 720000,
                     "minOSVersion": "17.0",
                     "maxOSVersion": "18.2"
                 }
