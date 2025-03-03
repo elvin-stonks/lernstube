@@ -19,8 +19,8 @@
                     "localizedDescription": "Hallo Noah",
                     "downloadURL": "https://github.com/elvin-stonks/lernstube/raw/refs/heads/main/releases/b46.ipa",
                     "size": 720000,
-                    "minOSVersion": "17.0",
-                    "maxOSVersion": "18.2"
+                    "minOSVersion": "16.0",
+                    "maxOSVersion": "18.3.1"
                 }
             ]
         }
