@@ -4,7 +4,7 @@
             "beta": true,
             "bundleIdentifier": "bekis.lernstube",
             "developerName": "charl",
-            "downloadURL": "https://github.com/elvin-stonks/lernstube/blob/main/releases/b46.ipa",
+            "downloadURL": "https://github.com/elvin-stonks/lernstube/raw/refs/heads/main/releases/b46.ipa",
             "iconURL": "https://github.com/elvin-stonks/lernstube/blob/main/1024.png?raw=true",
             "localizedDescription": "Hallo Noah",
             "name": "Bekis Lernstube",
@@ -17,7 +17,7 @@
                     "buildVersion": "46",
                     "date": "2025-03-03",
                     "localizedDescription": "Hallo Noah",
-                    "downloadURL": "https://github.com/elvin-stonks/lernstube/blob/main/releases/b46.ipa",
+                    "downloadURL": "https://github.com/elvin-stonks/lernstube/raw/refs/heads/main/releases/b46.ipa",
                     "size": 720000,
                     "minOSVersion": "17.0",
                     "maxOSVersion": "18.2"
