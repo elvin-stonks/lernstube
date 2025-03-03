@@ -2,7 +2,7 @@
     "apps": [
         {
             "beta": false,
-            "bundleIdentifier": "com.neo.countdown",
+            "bundleIdentifier": "bekis.lernstube",
             "developerName": "neoarz",
             "downloadURL": "https://github.com/neoarz/Countdown-App/releases/download/1.6/Countdown.ipa",
             "iconURL": "https://github.com/neoarz/Countdown-App/raw/main/Assets/CountdownLogo.jpg",
