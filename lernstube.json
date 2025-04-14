@@ -22,7 +22,15 @@
                     "minOSVersion": "16.0",
                     "maxOSVersion": "18.4"
                 }
-            ]
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "get-task-allow"
+                ],
+                "private": [
+                    "keychain-access-groups"
+                ]
+            }
         }
     ],
     "identifier": "bekis.lernstube",
